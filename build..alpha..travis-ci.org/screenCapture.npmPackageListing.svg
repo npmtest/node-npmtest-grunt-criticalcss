@@ -1,0 +1,16 @@
+<svg height="206" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="206" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-19 22:27:01 +0000    12538 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 22:27:01 +0000     1633 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 22:27:01 +0000     1059 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 22:27:01 +0000     3378 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 22:27:01 +0000     2836 bytes  package.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 22:27:01 +0000     1807 bytes  tasks/criticalcss.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 22:27:01 +0000     1172 bytes  test/criticalcss_test.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 22:27:01 +0000       18 bytes  test/expected/custom_options</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 22:27:01 +0000      161 bytes  test/expected/default_options</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 22:27:01 +0000      293 bytes  test/fixtures/all.css</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 22:27:01 +0000      181 bytes  test/fixtures/test-site.html</tspan>
+</text>
+</svg>
